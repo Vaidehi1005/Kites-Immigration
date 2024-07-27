@@ -9,4 +9,21 @@
 #logo {
     padding-left: 60px;
     height: 100px;
+    display: inline-block;
+    flex-direction: row;
+
+}
+#sv{
+ padding: 100px;
+ flex-direction: row;
+}
+#iv{
+ padding: 100px;
+ flex-direction: row;
+
+}
+#vv{
+ padding: 100px;
+ flex-direction: row;
+
 }
