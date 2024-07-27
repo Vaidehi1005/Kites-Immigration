@@ -1,3 +1,10 @@
 .flex-container{
     display: flex;
 }
+#nav{
+    list-style: none;
+}
+#logo{
+    padding-left:60px ;
+    height: 100px;
+}
