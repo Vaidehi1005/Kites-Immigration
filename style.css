@@ -69,3 +69,23 @@
     color: black;
     transition-duration: 1s;
 }
+#t1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    font-size: 100px;
+    padding-left: 110px;
+    padding-top: 30px;
+}
+#t2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    font-size: 100px;
+    padding-left: 110px;
+    color:darkseagreen;
+}
+#t3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    font-size: 100px;
+    padding-left: 110px;
+}
