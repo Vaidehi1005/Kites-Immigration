@@ -97,4 +97,8 @@
     font-size: 20px;
     padding-left: 110px;
     font-weight:lighter;
+    float: left;
+}
+#p1{
+    width: 500px;
 }
