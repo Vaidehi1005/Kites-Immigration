@@ -98,9 +98,15 @@
     font-size: 20px;
     padding-left: 110px;
     font-weight:lighter;
-    float: left;
+    display: block;
 }
-#t5{
-    height: 500px;
-    border-radius: 600px; 
+#b1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    margin-top: 20px;
 }
