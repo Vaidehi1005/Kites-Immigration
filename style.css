@@ -48,6 +48,7 @@
     flex-direction: row;
     font-size: 25px;
     padding: 50px;
+    float: left;
 }
 
 #vv:hover {
