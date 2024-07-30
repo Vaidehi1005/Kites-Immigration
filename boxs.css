@@ -1,6 +1,6 @@
 #box1 {
-    width: 900px;
-    height: 540px;
+    width: 1000px;
+    height: 600px;
     background-color: darkorange;
     margin-top: 75px;
     margin-left: 30px;
@@ -24,10 +24,10 @@
 
 #a2 {
     color: white;
-    width: 35%;
+    width: 70%;
     text-align: justify;
     word-spacing: 10px;
-    font-size: 22px;
+    font-size: 25px;
     padding-left: 40px;
 }
 
@@ -40,4 +40,10 @@
     color: white;
     cursor: pointer;
     margin-left: 35px;
+}
+
+#right1 {
+    mask-image: url("ink-black-color-smoke-blot-drop-png-transparent_933071-6-removebg-preview.png");
+    mask-repeat: no-repeat;
+    margin-top: 120px;
 }
