@@ -2,7 +2,6 @@
     display: flex;
     justify-content: start;
     box-shadow: 5px 10px 5px whitesmoke;
-
 }
 
 #nav {
@@ -22,8 +21,7 @@
     flex-direction: row;
     padding: 50px;
     font-size: 25px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
 }
 
 #sv:hover {
