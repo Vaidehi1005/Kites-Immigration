@@ -104,3 +104,9 @@
     word-spacing: 10px;
     font-size: 26px;
 }
+
+.main3 {
+    background-image: url("https://media1.giphy.com/media/0p83n7lR4Rsj0gEiza/giphy.gif?cid=6c09b952r7nl5un4pau3g8tngqjth4kon3jn7y5r83xekgwf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s");
+    background-repeat: no-repeat;
+    background-position-y: 100px;
+}
