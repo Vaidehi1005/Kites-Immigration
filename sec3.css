@@ -16,7 +16,7 @@
     text-decoration: overline;
 }
 
-#main2 {
+.main2 {
     display: flex;
     justify-content: space-evenly;
 }
