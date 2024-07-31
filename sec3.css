@@ -18,9 +18,47 @@
 
 #main2 {
     display: flex;
+    justify-content: space-evenly;
 }
 
 #a4{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
+    padding-left: 80px;
+}
+#a5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+  
+}
+#a6{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+#c1{
+    text-align: justify;
+    width: 90%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-spacing: 10px;
+    font-size: 26px;
+    padding-left: 80px;
+}
+#c2{
+    text-align: justify;
+    width: 90%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-spacing: 10px;
+    font-size: 26px;
+    
+}
+#c3{
+    text-align: justify;
+    width: 90%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-spacing: 10px;
+    font-size: 26px;
+}
+.parts{
+    width: 30%;
+  padding: 80px;
 }
