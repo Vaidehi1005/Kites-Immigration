@@ -1,6 +1,11 @@
-.flex-container {
+#navbar {
+    width: 100%;
     display: flex;
+}
+
+.flex-container {
     justify-content: start;
+    width: 100%;
     box-shadow: 5px 10px 5px whitesmoke;
 }
 
@@ -10,7 +15,6 @@
 }
 
 #logo {
-    height: 100px;
     float: left;
     padding-left: 80px;
     padding-top: 15px;
@@ -515,6 +519,7 @@ li:hover {
     text-align: center;
     padding-top: 35px;
 }
-#main6{
+
+#main6 {
     padding-top: 650px;
 }
