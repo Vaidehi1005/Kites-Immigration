@@ -2,7 +2,10 @@
     width: 100%;
     display: flex;
 }
-
+body{
+    margin: 0;
+    padding: 0;
+}
 .flex-container {
     justify-content: end;
     width: 100%;
